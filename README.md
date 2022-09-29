@@ -1,4 +1,4 @@
-# Workspace by Edward Fjura
+# WORKspace by Edward Fjura
 
 Phases
 -----
