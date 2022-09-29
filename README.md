@@ -2,4 +2,4 @@
 
 Phases
 -----
-[a relative link](docs/phase1/)phase1 docs
+[phase1 docs](docs/phase1/)
