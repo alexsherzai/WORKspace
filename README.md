@@ -2,4 +2,4 @@
 
 Phases
 -----
-[phase1 docs](docs/phase1/)
+[phase1 docs](doc/phase1/)
