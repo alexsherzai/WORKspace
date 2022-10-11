@@ -1,4 +1,4 @@
-# WORKspace by Edward Fjura
+# WORKspace by Edward Fjura, Songtao Bu, Alex Sherzai, Owen Ramirez
 
 Phases
 -----
