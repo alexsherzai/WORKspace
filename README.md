@@ -1,4 +1,5 @@
-# WORKspace by Edward Fjura, Songtao Bu, Alex Sherzai, Owen Ramirez
+# WORKspace 
+Web browser extension by Edward Fjura, Songtao Bu, Alex Sherzai, Owen Ramirez for the CS4540 class at CSULA
 
 Phases
 -----
