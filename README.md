@@ -4,7 +4,7 @@ Web browser extension by Edward Fjura, Songtao Bu, Alex Sherzai, Owen Ramirez fo
 Phases
 -----
 [phase1 docs](doc/phase1/)  
-[phase2 docs](doc/phase2/) 
+[phase2 docs](doc/A2/) 
 
 # Project Description
 Creating an extension to ease the organization of sites and notes using a tag system and containers.
