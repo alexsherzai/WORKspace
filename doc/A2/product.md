@@ -28,7 +28,8 @@ While working on this version of the project, we were able to learn new things a
 
 allows CSS to specifically target elements with an id that starts with "content_". With this, we were able to, for now, create 4 distinct text boxes as well as stylize them in unison.  
 
-Another aspect of the program we decided to include was an indicator that the user's mouse has exntered the sidebar. In order to achieve this, we decided to change the color of the textbox. 
+Another aspect of the program we decided to include was an indicator that the user's mouse has entered the sidebar. In order to achieve this, we decided to change the color of the textbox.  
+
 ![image_1](/repo/images/mousehover_in.png)
 ![image_2](/repo/images/mousehover_out.png)
 
