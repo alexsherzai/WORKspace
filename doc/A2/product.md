@@ -9,7 +9,17 @@ We tried looking into different forms out GUI options available in displaying th
 While we are not fully content in using the sidebars as a way to display the necessary info, that is the option we decided to stick to now. We made a quick decision as we ultimately learned that extensions are extremely flexible since we are able to use HTML and CSS to stylize as well as redo any formatting without spending any exorbitant amount of time.
 
 ## High-Level Vision
-The goal for the program is to be able to create more than just 4 panel-like containers that the user has some customizablity with. With panels that act like similar to a post-it note, users will be able to save tabs and important links easily.
+The goal for the program is to be able to create more than just 4 panel-like containers that the user has some customizablity with. With panels that act like similar to a post-it note, users will be able to save tabs and important links easily.  
+
+``` 
+"commands": {
+    "_execute_sidebar_action": {
+        "suggested_key": {
+            "default": "Ctrl+Shift+Y"
+        }
+    }
+}
+```
 
 ## Technical Highlights
 While working on this version of the project, we were able to learn new things about accessing and referring to specific parts of a code structure in CSS as well as start to learn Javascript. While not many of us are heavily into the web design topics, we found that most of our troubles came from design choices as well as the foreign syntaxing and structure of web extensions as well as the programming languages themselves. One of the things we ended up learning that was very interesting was about specificity in the CSS strucutre.  
@@ -18,7 +28,7 @@ While working on this version of the project, we were able to learn new things a
 
 allows CSS to specifically target elements with an id that starts with "content_". With this, we were able to, for now, create 4 distinct text boxes as well as stylize them in unison.  
 
-Another aspect of the program we decided to include was an indicator that the user's mouse has exntered the sidebar. In order to achieve this, we decided to change the color of the textbox.  
+Another aspect of the program we decided to include was an indicator that the user's mouse has entered the sidebar. In order to achieve this, we decided to change the color of the textbox.  
 
 ![image_1](/repo/images/mousehover_in.png)
 ![image_2](/repo/images/mousehover_out.png)
