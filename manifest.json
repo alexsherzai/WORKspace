@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "WORKspace",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Creating a in-browser workspace to better organize your searches.",
  
   "background": {
@@ -17,7 +17,7 @@
 
   "browser_action": {
     "default_icon": "icons/beasts-32.png",
-    "default_title": "Beastify",
+    "default_title": "WORKSpace",
     "default_popup": "popup/choose_beast.html"
   },
 
